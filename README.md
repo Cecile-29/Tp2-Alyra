@@ -1,7 +1,7 @@
 # Tp2-Alyra
 
 
-## Réalisation des tests unitaires du contrat Voting.sol
+##      Contract Voting.sol - unit tests project
 
 - Setting up the hardhat runtime environment files is simple as the tests performed on localhost.
 
